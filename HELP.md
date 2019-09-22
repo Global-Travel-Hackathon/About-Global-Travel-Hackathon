@@ -1,6 +1,4 @@
-:tada: We would like to share with you our open source projects, API's, libraries, open source design system, datasets etc. :tada:
-
-Feel free to use them, but don't forget to check the licences used.
+:tada: :100: We would like to share with you our open source projects, API's, libraries, open source design system, datasets etc. :100: :tada:
 
 ## Our philosophy 
 
